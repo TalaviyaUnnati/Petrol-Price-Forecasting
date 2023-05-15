@@ -1,6 +1,6 @@
 pandas
 numpy
 seaborn
-plotly.express
+plotly
 -e .
 
